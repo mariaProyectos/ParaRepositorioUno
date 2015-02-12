@@ -1,10 +1,10 @@
 package EstoEsUnaPrueba;
 
 public class ClaseNormal {
-	public static void main(String[] args) {
+	public static int multiplicamos() {
 		int numero = 5;
 		int resultado = 0;
-		resultado = numero * 2;
+		return resultado = numero * 2;
 
 	}
 }
