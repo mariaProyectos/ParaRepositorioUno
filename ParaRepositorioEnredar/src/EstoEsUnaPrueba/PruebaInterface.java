@@ -10,6 +10,7 @@ public static int aquiSeResta(int numero){
 	int resta=0;
 	resta=10-numero;
 	return numero;
+//	Voy a escribir para poder gusrdar
 	
 }
 }
