@@ -6,5 +6,6 @@ int propTres;
 int propCuatro;
 int propSeis;
 int quintoProp;
+int propSiete;
 
 }
