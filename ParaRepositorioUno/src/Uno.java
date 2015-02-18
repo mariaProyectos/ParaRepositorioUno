@@ -5,4 +5,6 @@ int propDos;
 int propTres;
 int propCuatro;
 int propSeis;
+int quintoProp;
+
 }
